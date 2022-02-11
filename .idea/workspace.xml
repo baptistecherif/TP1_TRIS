@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b112c5c2-e69f-4a66-b4b4-b7acbf9a023f" name="Changes" comment="gejrj">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="b112c5c2-e69f-4a66-b4b4-b7acbf9a023f" name="Changes" comment="FusionSort.java test">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1 TRIS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TP1 TRIS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FusionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RandomArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +40,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="TP1 TRIS" />
@@ -48,8 +62,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="TP1 TRIS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="TP1 TRIS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TP1 TRIS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort.positiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TP1 TRIS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <option name="METHOD_NAME" value="positiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="TestNG.MergeSort.positiveTest" />
+        <item itemvalue="TestNG.MergeSort" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
@@ -67,6 +122,19 @@
       <workItem from="1642794622332" duration="457000" />
       <workItem from="1642795150451" duration="1079000" />
       <workItem from="1642796476203" duration="44000" />
+      <workItem from="1642796530960" duration="205000" />
+      <workItem from="1642854434588" duration="228000" />
+      <workItem from="1642854708279" duration="38000" />
+      <workItem from="1642860425127" duration="45000" />
+      <workItem from="1642860581107" duration="29000" />
+      <workItem from="1643114203873" duration="205000" />
+      <workItem from="1643114955916" duration="102000" />
+      <workItem from="1643310749130" duration="271000" />
+      <workItem from="1643375377485" duration="4477000" />
+      <workItem from="1643543401440" duration="17000" />
+      <workItem from="1644579376110" duration="4039000" />
+      <workItem from="1644585299514" duration="600000" />
+      <workItem from="1644585921401" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="tri a bulles">
       <created>1642775827348</created>
@@ -96,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642796019273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="FusionSort.java test">
+      <created>1642796688422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642796688422</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +193,7 @@
     <MESSAGE value="tri à fusion" />
     <MESSAGE value="FusionSort" />
     <MESSAGE value="gejrj" />
-    <option name="LAST_COMMIT_MESSAGE" value="gejrj" />
+    <MESSAGE value="FusionSort.java test" />
+    <option name="LAST_COMMIT_MESSAGE" value="FusionSort.java test" />
   </component>
 </project>
