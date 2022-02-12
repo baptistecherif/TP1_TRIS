@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b112c5c2-e69f-4a66-b4b4-b7acbf9a023f" name="Changes" comment="FusionSort.java test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP1 TRIS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TP1 TRIS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FusionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomArray.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b112c5c2-e69f-4a66-b4b4-b7acbf9a023f" name="Changes" comment="FusionSort.java test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +124,7 @@
       <workItem from="1643543401440" duration="17000" />
       <workItem from="1644579376110" duration="4039000" />
       <workItem from="1644585299514" duration="600000" />
-      <workItem from="1644585921401" duration="460000" />
+      <workItem from="1644585921401" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="tri a bulles">
       <created>1642775827348</created>
@@ -171,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642796688422</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FusionSort.java test">
+      <created>1644590154273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644590154273</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
